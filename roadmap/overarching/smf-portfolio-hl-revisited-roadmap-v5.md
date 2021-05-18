@@ -2,6 +2,9 @@
 
 # Scott-Morgan Foundation
 ## PORTFOLIO
+
+<hr>
+
 <table>
 <tr width=100%>
 <td width=40%>
@@ -23,5 +26,6 @@ To create an eye-gaze powered application that enables PSM do his day-to-day act
 </td>
 </tr>
 </table>
-  
+
+<hr>
 
