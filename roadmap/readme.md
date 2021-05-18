@@ -1,3 +1,4 @@
+![smf-logo](images/smf-logo.png)
 # Roadmap
 
 In this directory you will find files associated with the Scott Morgan Foundation Roadmap
@@ -9,5 +10,3 @@ There will be files associated with the overarching Roadmap alongside more detai
 - [Section X](./sectionx/readme.md)
 - [Section Y](./sectiony/readme.md)
 - [Section Z](./sectionz/readme.md)
-- 
-- 
