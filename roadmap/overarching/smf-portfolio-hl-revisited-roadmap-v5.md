@@ -1,2 +1,22 @@
 ![Slide 1 BG](images/roadmap-slide1-bg.png)
 
+# Scott-Morgan Foundation
+## PORTFOLIO
+<table>
+<tr width=100%>
+<td width=40%>
+  ![Scope](images/roadmap-slide2-scope.png)
+</td>
+<td width=60%>
+To build a fully automated house for a modern family that interfaces directly with Augmented Reality
+Future Work
+  
+To integrate advanced features and improve on the performance of the speech synthesizer, art creator, mobility wheelchair, and health tracker 
+Coming Up Soon
+
+To create an eye-gaze powered application that enables PSM do his day-to-day activities: speech assistant, health tracker, mobility wheelchair, and AI art creator
+Currently Working On
+</td>
+</table>
+  
+
