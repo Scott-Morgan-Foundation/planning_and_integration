@@ -11,14 +11,14 @@
 </td>
 <td width=60%>
   
-To build a fully automated house for a modern family that interfaces directly with Augmented Reality
 ### Future Work
+To build a fully automated house for a modern family that interfaces directly with Augmented Reality
   
-To integrate advanced features and improve on the performance of the speech synthesizer, art creator, mobility wheelchair, and health tracker 
 ### Coming Up Soon
+To integrate advanced features and improve on the performance of the speech synthesizer, art creator, mobility wheelchair, and health tracker 
 
-To create an eye-gaze powered application that enables PSM do his day-to-day activities: speech assistant, health tracker, mobility wheelchair, and AI art creator
 ### Currently Working On
+To create an eye-gaze powered application that enables PSM do his day-to-day activities: speech assistant, health tracker, mobility wheelchair, and AI art creator
 
 </td>
 </tr>
