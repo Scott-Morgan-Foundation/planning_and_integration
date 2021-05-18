@@ -29,6 +29,6 @@ To create an eye-gaze powered application that enables PSM do his day-to-day act
 
 <hr>
 
-Further content to me added..
+Further content to be added..
 
 <hr>
