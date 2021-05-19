@@ -7,9 +7,12 @@ There will be files associated with the overarching Roadmap alongside more detai
 
 ### Sections
 - [Overall Roadmap](./overarching/readme.md)
-- [Section X](./sectionx/readme.md)
-- [Section Y](./sectiony/readme.md)
-- [Section Z](./sectionz/readme.md)
+- [Cyborg](./sectionx/readme.md)
+- [Highcliff](./sectiony/readme.md)
+- [Universe](./sectionz/readme.md)
+- [Artist](./sectionz/readme.md)
+- [Mobility](./sectionz/readme.md)
+- [Medic](./sectionz/readme.md)
 
 <hr>
 
