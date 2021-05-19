@@ -1,7 +1,9 @@
+![Slide 1](images/roadmap-slide-1.png)
 
-![Slide 1](images/roadmap-slide1.png)
 <hr>
-![Slide 2](images/roadmap-slide2.png)
+
+![Slide 2](images/roadmap-slide-2.png)
+
 <hr>
 
 ![Slide 1 BG](images/roadmap-slide1-bg.png)
