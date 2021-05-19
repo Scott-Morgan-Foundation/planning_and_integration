@@ -11,6 +11,7 @@ There will be files associated with the overarching Roadmap alongside more detai
 - [Section Y](./sectiony/readme.md)
 - [Section Z](./sectionz/readme.md)
 
+<hr>
 
-[Back Up](../readme.md)
+[Back Up](../README.md)
 
