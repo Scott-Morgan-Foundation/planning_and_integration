@@ -7,12 +7,12 @@ There will be files associated with the overarching Roadmap alongside more detai
 
 ### Sections
 - [Overall Roadmap](./overarching/readme.md)
-- [Cyborg](./overarching/images/roadmap-slide-8.png)
-- [Highcliff](./sectiony/readme.md)
-- [Universe](./sectionz/readme.md)
-- [Artist](./sectionz/readme.md)
-- [Mobility](./sectionz/readme.md)
-- [Medic](./sectionz/readme.md)
+- [Cyborg](./cyborg/readme,md)
+- [Highcliff](./highcliff/readme.md)
+- [Universe](./universe/readme.md)
+- [Artist](./artist/readme.md)
+- [Mobility](./mobility/readme.md)
+- [Medic](./medic/readme.md)
 
 <hr>
 
