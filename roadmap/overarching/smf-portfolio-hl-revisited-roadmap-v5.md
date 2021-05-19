@@ -6,34 +6,64 @@
 
 <hr>
 
-![Slide 1 BG](images/roadmap-slide1-bg.png)
-
-# Scott-Morgan Foundation ## PORTFOLIO
-<hr>
-<table>
-<tr width=100%>
-<td width=40%>
-
-![Slide 2 Scope Diagram](images/roadmap-slide2-scope.png)
-
-</td>
-<td width=60%>
-  
-### Future Work
-To build a fully automated house for a modern family that interfaces directly with Augmented Reality
-  
-### Coming Up Soon
-To integrate advanced features and improve on the performance of the speech synthesizer, art creator, mobility wheelchair, and health tracker 
-
-### Currently Working On
-To create an eye-gaze powered application that enables PSM do his day-to-day activities: speech assistant, health tracker, mobility wheelchair, and AI art creator
-
-</td>
-</tr>
-</table>
+![Slide 2](images/roadmap-slide-2.png)
 
 <hr>
 
-Further content to be added..
+![Slide 3](images/roadmap-slide-3.png)
 
 <hr>
+
+![Slide 4](images/roadmap-slide-4.png)
+
+<hr>
+
+![Slide 5](images/roadmap-slide-5.png)
+
+<hr>
+
+![Slide 6](images/roadmap-slide-6.png)
+
+<hr>
+
+![Slide 7](images/roadmap-slide-7.png)
+
+<hr>
+
+![Slide 8](images/roadmap-slide-8.png)
+
+<hr>
+
+![Slide 9](images/roadmap-slide-9.png)
+
+<hr>
+
+![Slide 10](images/roadmap-slide-10.png)
+
+<hr>
+
+![Slide 11](images/roadmap-slide-11.png)
+
+<hr>
+
+![Slide 12](images/roadmap-slide-12.png)
+
+<hr>
+
+![Slide 13](images/roadmap-slide-13.png)
+
+<hr>
+
+![Slide 14](images/roadmap-slide-14.png)
+
+<hr>
+
+![Slide 15](images/roadmap-slide-15.png)
+
+<hr>
+
+![Slide 16](images/roadmap-slide-16.png)
+
+<hr>
+
+[Back Up](../readme.md)
