@@ -1,10 +1,13 @@
-![Slide 1 BG](images/roadmap-slide1-bg.png)
 
-# Scott-Morgan Foundation
-## PORTFOLIO
-
+![Slide 1](images/roadmap-slide1.png)
+<hr>
+![Slide 2](images/roadmap-slide2.png)
 <hr>
 
+![Slide 1 BG](images/roadmap-slide1-bg.png)
+
+# Scott-Morgan Foundation ## PORTFOLIO
+<hr>
 <table>
 <tr width=100%>
 <td width=40%>
