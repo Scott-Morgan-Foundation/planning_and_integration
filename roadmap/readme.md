@@ -7,7 +7,7 @@ There will be files associated with the overarching Roadmap alongside more detai
 
 ### Sections
 - [Overall Roadmap](./overarching/readme.md)
-- [Cyborg](./sectionx/readme.md)
+- [Cyborg](./overarching/images/roadmap-slide-8.png)
 - [Highcliff](./sectiony/readme.md)
 - [Universe](./sectionz/readme.md)
 - [Artist](./sectionz/readme.md)
