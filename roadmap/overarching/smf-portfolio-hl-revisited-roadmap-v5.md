@@ -6,10 +6,6 @@
 
 <hr>
 
-![Slide 2](images/roadmap-slide-2.png)
-
-<hr>
-
 ![Slide 3](images/roadmap-slide-3.png)
 
 <hr>
