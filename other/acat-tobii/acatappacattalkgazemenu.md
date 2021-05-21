@@ -1,5 +1,5 @@
-![smf-logo](../images/smf-logo.png)
-# Using ACAT App and ACAT Talk Gaze to create a usable Menu
+![smf-logo](../../images/smf-logo.png)
+# Using ACAT App and ACAT Talk Gaze to create a Usable Menu System
 
 Peter has primarily been using the ACAT software to provide communication (text-to-speech) functionality and as such has his laptop
 set up to simply start the **ACATTalkGaze** application.
