@@ -10,4 +10,11 @@ This repository contains documents and code associated with the Planning and Int
 
 <hr> 
 
+# Other Content
+
+In addition you will find a number of other items of interest which do not comfortably fit in any of the other foundation repositories
+
+- [Research](./research/readmd.md)
+- [Other Items](./other/readmd.md)
+
 [Back to Foundation Repositories](https://github.com/Scott-Morgan-Foundation)
