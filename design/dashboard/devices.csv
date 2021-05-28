@@ -1,0 +1,5 @@
+device_id,device_name,user_id,low_power,mid_power,high_power
+1,Charlie,1,20,60,100
+2,laptop_1,1,20,60,100
+3,laptop_2,1,20,60,100
+4,Ventilator,1,30,60,100
