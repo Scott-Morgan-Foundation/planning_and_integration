@@ -1,0 +1,5 @@
+user_id,Low Pulse,High Pulse,Low Temp,High Temp,Low Respiration Rate,High Respiration Rate,Low Systolic Blood Pressure,High Systolic Blood Pressure,Diastolic Blood Pressure,Diastolic Blood Pressure,Low Oxygen Level,Low Oxygen Level
+1,60,100,36.5,37.2,12,14,100,120,60,80,95,100
+2,60,100,36.5,37.2,12,14,100,120,60,80,95,100
+3,60,100,36.5,37.2,12,14,100,120,60,80,95,100
+4,60,100,36.5,37.2,12,14,100,120,60,80,95,100
