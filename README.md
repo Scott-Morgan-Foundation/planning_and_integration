@@ -14,6 +14,7 @@ This repository contains documents and code associated with the Planning and Int
 
 In addition you will find a number of other items of interest which do not comfortably fit in any of the other foundation repositories
 
+- [Cyborg Universe Software](./mixed_reality_cyborg_universe)
 - [Research](./research/readme.md)
 - [Other Items](./other/readme.md)
 
