@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Distributed Message Queue</title>
+    <title>Distributed Real Time Message Queue</title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="../assets/css/bootstrap.css">
 <link rel="stylesheet" href="../assets/css/jquery.bonsai.css">
@@ -18,7 +18,7 @@
 
       <!-- Name Title -->
 
-      <h1>Distributed Message Queue</h1>
+      <h1>Distributed Real Time Message Queue</h1>
 
       <!-- Type and Stereotype -->
 
@@ -43,7 +43,7 @@
           <span class="label label-info"><a href='d3a1a058756cf3c156e6e2fa64a0486a.html'><span class='node-icon staruml-icon icon-UMLModel'></span>Logical View</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='371d10472c495ea319234fdfc80e958b.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Distributed Message Queue</a></span>
+          <span class="label label-info"><a href='371d10472c495ea319234fdfc80e958b.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Distributed Real Time Message Queue</a></span>
         
       </section>
 
@@ -164,6 +164,13 @@
             <td></td>
           </tr>
           
+          <tr>
+            <td>public</td>
+            <td><a href="ce8c971f728147f1eee7b3a273eb6163.html">onPrem</a></td>
+            <td><span class='label label-info'>none</span></td>
+            <td></td>
+          </tr>
+          
         </table>
       </section>
       
@@ -268,7 +275,7 @@
     
     <tr>
         <td>name</td>
-        <td>Distributed Message Queue</td>
+        <td>Distributed Real Time Message Queue</td>
     </tr>
     
     
@@ -366,6 +373,8 @@
         
         <li><a href='8d83dcd720976179518e9d2c34d361b9.html'><span class='node-icon staruml-icon icon-UMLInterface'></span>MQ API</a></li>
         
+        <li><a href='33db6cb968aa17ccede1b1f215c2e3e9.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Compute Node</a></li>
+        
     </ul>
 </section>
 
@@ -384,11 +393,11 @@
     <h3>Relationships</h3>
     <ul class="nav nav-list">
         
-        <li><a href='f4c69833da6d60041854cc0f4bce4afc.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>deployed to (Distributed Message Queue—Nodes)</a></li>
+        <li><a href='20ba7f35cdbd0ac88edd1af80f93d0ec.html'><span class='node-icon staruml-icon icon-UMLInterfaceRealization'></span>(Distributed Real Time Message Queue→MQ API)</a></li>
         
-        <li><a href='20ba7f35cdbd0ac88edd1af80f93d0ec.html'><span class='node-icon staruml-icon icon-UMLInterfaceRealization'></span>(Distributed Message Queue→MQ API)</a></li>
+        <li><a href='95dc3f69dc70dbbe0acbf298268995aa.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>(Topics—Distributed Real Time Message Queue)</a></li>
         
-        <li><a href='95dc3f69dc70dbbe0acbf298268995aa.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>(Topics—Distributed Message Queue)</a></li>
+        <li><a href='1a01fd9205f0b8cdb3240fd07d4bb2db.html'><span class='node-icon staruml-icon icon-UMLDependency'></span>deployed to (Distributed Real Time Message Queue→Compute Node)</a></li>
         
     </ul>
 </section>
@@ -403,9 +412,9 @@
     <h3>Owned Elements</h3>
     <ul class="nav nav-list">
         
-        <li><a href='f4c69833da6d60041854cc0f4bce4afc.html'><span class='node-icon staruml-icon icon-UMLAssociation'></span>deployed to (Distributed Message Queue—Nodes)</a></li>
+        <li><a href='20ba7f35cdbd0ac88edd1af80f93d0ec.html'><span class='node-icon staruml-icon icon-UMLInterfaceRealization'></span>(Distributed Real Time Message Queue→MQ API)</a></li>
         
-        <li><a href='20ba7f35cdbd0ac88edd1af80f93d0ec.html'><span class='node-icon staruml-icon icon-UMLInterfaceRealization'></span>(Distributed Message Queue→MQ API)</a></li>
+        <li><a href='1a01fd9205f0b8cdb3240fd07d4bb2db.html'><span class='node-icon staruml-icon icon-UMLDependency'></span>deployed to (Distributed Real Time Message Queue→Compute Node)</a></li>
         
     </ul>
 </section>

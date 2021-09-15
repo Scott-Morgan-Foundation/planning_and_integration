@@ -81,6 +81,15 @@
       
         
         
+<section class="element-list">
+    <h3>Generalized Elements</h3>
+    <ul class="nav nav-list">
+        
+        <li><a href='33db6cb968aa17ccede1b1f215c2e3e9.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Compute Node</a></li>
+        
+    </ul>
+</section>
+
 
 
         
@@ -89,9 +98,7 @@
     <h3>Specialized Elements</h3>
     <ul class="nav nav-list">
         
-        <li><a href='02196799ca554fd2290deead406eb4a6.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Sensor</a></li>
-        
-        <li><a href='9dbdf2c7eee9e99b6d86b5332ffddfaa.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Actuator</a></li>
+        <li><a href='d2d4ad66fd20a430770037b8ad020a00.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Input Device</a></li>
         
     </ul>
 </section>
@@ -339,9 +346,9 @@
     <h3>Dependencies</h3>
     <ul class="nav nav-list">
         
-        <li><a href='2b0e018b01160608ca69a286b6c71cad.html'><span class='node-icon staruml-icon icon-UMLClass'></span>Zigbee Mesh Network</a></li>
+        <li><a href='8d83dcd720976179518e9d2c34d361b9.html'><span class='node-icon staruml-icon icon-UMLInterface'></span>MQ API</a></li>
         
-        <li><a href='4c8b3f85227cac505068118331e5aa07.html'><span class='node-icon staruml-icon icon-UMLClass'></span>WiFi Network</a></li>
+        <li><a href='e89027291069a8cb2e1847f64367d9c4.html'><span class='node-icon staruml-icon icon-UMLActor'></span>Environment</a></li>
         
     </ul>
 </section>
@@ -361,13 +368,13 @@
     <h3>Relationships</h3>
     <ul class="nav nav-list">
         
-        <li><a href='2c642604146ae66b61112045e821890c.html'><span class='node-icon staruml-icon icon-UMLGeneralization'></span>(Sensor→Edge Device)</a></li>
+        <li><a href='eedcc540cc970a5488cd8f8ca786b318.html'><span class='node-icon staruml-icon icon-UMLGeneralization'></span>(Edge Device→Compute Node)</a></li>
         
-        <li><a href='8b983e4117962153e0ccb763c975fe68.html'><span class='node-icon staruml-icon icon-UMLGeneralization'></span>(Actuator→Edge Device)</a></li>
+        <li><a href='5a23dca474eae9b7da1f5820d687fec8.html'><span class='node-icon staruml-icon icon-UMLDependency'></span>Edge Integration DXC (Edge Device→MQ API)</a></li>
         
-        <li><a href='6b1b8999606247db0723c85b81ffa750.html'><span class='node-icon staruml-icon icon-UMLDependency'></span>(Edge Device→Zigbee Mesh Network)</a></li>
+        <li><a href='3fcca8b9113e0530a400bceae6d5c2c8.html'><span class='node-icon staruml-icon icon-UMLDependency'></span>interacts with (Edge Device→Environment)</a></li>
         
-        <li><a href='081817305cca4cb8d8545ffdb63a1878.html'><span class='node-icon staruml-icon icon-UMLDependency'></span>(Edge Device→WiFi Network)</a></li>
+        <li><a href='35622f1da6c93bd727b79f5528a71415.html'><span class='node-icon staruml-icon icon-UMLGeneralization'></span>(Input Device→Edge Device)</a></li>
         
     </ul>
 </section>
@@ -382,9 +389,11 @@
     <h3>Owned Elements</h3>
     <ul class="nav nav-list">
         
-        <li><a href='6b1b8999606247db0723c85b81ffa750.html'><span class='node-icon staruml-icon icon-UMLDependency'></span>(Edge Device→Zigbee Mesh Network)</a></li>
+        <li><a href='eedcc540cc970a5488cd8f8ca786b318.html'><span class='node-icon staruml-icon icon-UMLGeneralization'></span>(Edge Device→Compute Node)</a></li>
         
-        <li><a href='081817305cca4cb8d8545ffdb63a1878.html'><span class='node-icon staruml-icon icon-UMLDependency'></span>(Edge Device→WiFi Network)</a></li>
+        <li><a href='5a23dca474eae9b7da1f5820d687fec8.html'><span class='node-icon staruml-icon icon-UMLDependency'></span>Edge Integration DXC (Edge Device→MQ API)</a></li>
+        
+        <li><a href='3fcca8b9113e0530a400bceae6d5c2c8.html'><span class='node-icon staruml-icon icon-UMLDependency'></span>interacts with (Edge Device→Environment)</a></li>
         
     </ul>
 </section>
