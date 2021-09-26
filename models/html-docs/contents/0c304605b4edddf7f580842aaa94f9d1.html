@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Process View</title>
+    <title>SmartCamera</title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="../assets/css/bootstrap.css">
 <link rel="stylesheet" href="../assets/css/jquery.bonsai.css">
@@ -18,14 +18,14 @@
 
       <!-- Name Title -->
 
-      <h1>Process View</h1>
+      <h1>SmartCamera</h1>
 
       <!-- Type and Stereotype -->
 
       <section style="margin-top: .5em;">
         <span class="alert alert-info">
-          <span class="node-icon staruml-icon icon-UMLModel"></span>
-          UMLModel
+          <span class="node-icon staruml-icon icon-UMLLifeline"></span>
+          UMLLifeline
         </span>
         
       </section>
@@ -41,6 +41,15 @@
         
           <span>::</span>
           <span class="label label-info"><a href='1d339298f36a9b129304d48be4ad5373.html'><span class='node-icon staruml-icon icon-UMLModel'></span>Process View</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='4234e53abb193768087d6c36062dcdf9.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>EdgeIntegration</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='b1dbb2110eae567a7c17f9a5970155f9.html'><span class='node-icon staruml-icon icon-UMLInteraction'></span>EdgeIntegration</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='0c304605b4edddf7f580842aaa94f9d1.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>SmartCamera: Edge Device</a></span>
         
       </section>
 
@@ -129,22 +138,6 @@
 
       
       
-      <section class="element-list">
-        <h3>Diagrams</h3>
-        <div>
-          
-          <div style="display: inline-block; width: 250px; vertical-align: top;">
-            <div class="member">
-              <a href="1a56099ff3a19eae8b5e9cd9a0076fd7.html">
-                <img src="../diagrams/1a56099ff3a19eae8b5e9cd9a0076fd7.svg">
-                <div style="text-align: center; margin-top: 1em;">Process View</div>
-              </a>
-            </div>
-          </div>
-          
-        </div>
-      </section>
-      
 
       <!-- Behavior -->
 
@@ -225,7 +218,7 @@
     
     <tr>
         <td>name</td>
-        <td>Process View</td>
+        <td>SmartCamera</td>
     </tr>
     
     
@@ -259,10 +252,8 @@
     
     
     <tr>
-        <td>importedElements</td>
-        <td>
-            
-        </td>
+        <td>selector</td>
+        <td></td>
     </tr>
     
     
@@ -270,8 +261,17 @@
     
     
     <tr>
-        <td>viewpoint</td>
-        <td></td>
+        <td>represent</td>
+        <td><a href='f9ceb9b88d91016a931832baee731dd7.html'><span class='node-icon staruml-icon icon-UMLAttribute'></span>Role2</a></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>isMultiInstance</td>
+        <td><span class='label label-info'>false</span></td>
     </tr>
     
     
@@ -304,33 +304,23 @@
 
       
       
+<section class="element-list">
+    <h3>Relationships</h3>
+    <ul class="nav nav-list">
+        
+        <li><a href='4bf0af2fc71e93c26dc6960228a8f5f5.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>write (SmartCamera→FileServer)</a></li>
+        
+        <li><a href='39dfaaf331fe38d77b3abc40b2b7e7c3.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>turnOff (Adapter→SmartCamera)</a></li>
+        
+    </ul>
+</section>
+
 
 
       <!-- Owned Elements -->
 
       
       
-<section class="element-list">
-    <h3>Owned Elements</h3>
-    <ul class="nav nav-list">
-        
-        <li><a href='1a56099ff3a19eae8b5e9cd9a0076fd7.html'><span class='node-icon staruml-icon icon-UMLComponentDiagram'></span>Process View</a></li>
-        
-        <li><a href='787c745dde2d44c117ea06c3ab177853.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>AutoNavAI</a></li>
-        
-        <li><a href='9e91d966ef631acb5385b5587f5fa3c0.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>TrainAutoNavAI</a></li>
-        
-        <li><a href='2ab7033a95d951a5890e1a34c4798566.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>ACATsentencePrediction</a></li>
-        
-        <li><a href='d13439c5ec233903db0ff3e90e780cb8.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>AvatarSpeaks</a></li>
-        
-        <li><a href='f5129cca5e0853569d854fdac58282b5.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>EyeGaze</a></li>
-        
-        <li><a href='4234e53abb193768087d6c36062dcdf9.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>EdgeIntegration</a></li>
-        
-    </ul>
-</section>
-
 
 
     </div>

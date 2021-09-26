@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Process View</title>
+    <title>ACATsentencePrediction</title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="../assets/css/bootstrap.css">
 <link rel="stylesheet" href="../assets/css/jquery.bonsai.css">
@@ -18,14 +18,14 @@
 
       <!-- Name Title -->
 
-      <h1>Process View</h1>
+      <h1>ACATsentencePrediction</h1>
 
       <!-- Type and Stereotype -->
 
       <section style="margin-top: .5em;">
         <span class="alert alert-info">
-          <span class="node-icon staruml-icon icon-UMLModel"></span>
-          UMLModel
+          <span class="node-icon staruml-icon icon-UMLInteraction"></span>
+          UMLInteraction
         </span>
         
       </section>
@@ -41,6 +41,12 @@
         
           <span>::</span>
           <span class="label label-info"><a href='1d339298f36a9b129304d48be4ad5373.html'><span class='node-icon staruml-icon icon-UMLModel'></span>Process View</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='2ab7033a95d951a5890e1a34c4798566.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>ACATsentencePrediction</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='4ba56c0ce534e03c092da8e5547c6c90.html'><span class='node-icon staruml-icon icon-UMLInteraction'></span>ACATsentencePrediction</a></span>
         
       </section>
 
@@ -135,9 +141,9 @@
           
           <div style="display: inline-block; width: 250px; vertical-align: top;">
             <div class="member">
-              <a href="1a56099ff3a19eae8b5e9cd9a0076fd7.html">
-                <img src="../diagrams/1a56099ff3a19eae8b5e9cd9a0076fd7.svg">
-                <div style="text-align: center; margin-top: 1em;">Process View</div>
+              <a href="833d879c13873d888d6fd2e26102e45c.html">
+                <img src="../diagrams/833d879c13873d888d6fd2e26102e45c.svg">
+                <div style="text-align: center; margin-top: 1em;">ACATsentencePrediction</div>
               </a>
             </div>
           </div>
@@ -149,12 +155,74 @@
       <!-- Behavior -->
 
       
+        
+        
+
+
+        
+        
+
+      
 
       <!-- Action -->
 
       
 
       <!-- Interaction -->
+
+      
+        
+        
+
+
+        
+        
+<section class="element-list">
+    <h3>Participants</h3>
+    <ul class="nav nav-list">
+        
+        <li><a href='a913500f1ad747ba70788ab13c635104.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>Peter: Peter</a></li>
+        
+        <li><a href='37450187aefd4e78d158c19fac6f17de.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>ACATkeyboard: Micro Service</a></li>
+        
+        <li><a href='d862407cf2b7cfaf202cec67672eead7.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>SentencePredictionAI: Micro Service</a></li>
+        
+        <li><a href='7bb55bc308ad595574164120e591c6c2.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>MQ: Distributed Real Time Message Queue</a></li>
+        
+        <li><a href='19eee54d0fcd7d35251f74c781f07608.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>ACATdisplay: Micro Service</a></li>
+        
+    </ul>
+</section>
+
+
+
+        
+        
+<section class="element-list">
+    <h3>Messages</h3>
+    <ul class="nav nav-list">
+        
+        <li><a href='98bad305f54dfb2fadd9abecf7372e77.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>input (Peter→ACATkeyboard)</a></li>
+        
+        <li><a href='dcd6e40280722c986afc2d078e8b81ee.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>pub (ACATkeyboard→MQ)</a></li>
+        
+        <li><a href='f7c4c41c4721a01e75dde5552fb2e4b9.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>sub (ACATdisplay→MQ)</a></li>
+        
+        <li><a href='18145f38737bce28b2521e2f9d459d52.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>display (ACATdisplay→Peter)</a></li>
+        
+        <li><a href='36d0c22da9c4e06975c6e9d7336011ad.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>sub (SentencePredictionAI→MQ)</a></li>
+        
+        <li><a href='65791301cb40d042517c0bbc968c0a58.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>predict (SentencePredictionAI→SentencePredictionAI)</a></li>
+        
+        <li><a href='3d447fbe60a48a14d157d6b18b24f766.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>pub (SentencePredictionAI→MQ)</a></li>
+        
+        <li><a href='7978659ee806cb55e786cab96aa5f83a.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>sub (ACATdisplay→MQ)</a></li>
+        
+        <li><a href='9bd59ee0b6025773df258c95ae11a6c5.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>display (ACATdisplay→Peter)</a></li>
+        
+    </ul>
+</section>
+
 
       
 
@@ -225,7 +293,7 @@
     
     <tr>
         <td>name</td>
-        <td>Process View</td>
+        <td>ACATsentencePrediction</td>
     </tr>
     
     
@@ -259,20 +327,21 @@
     
     
     <tr>
-        <td>importedElements</td>
-        <td>
-            
-        </td>
+        <td>isReentrant</td>
+        <td><span class='label label-info'>true</span></td>
     </tr>
     
     
     
     
     
-    <tr>
-        <td>viewpoint</td>
-        <td></td>
-    </tr>
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -314,19 +383,7 @@
     <h3>Owned Elements</h3>
     <ul class="nav nav-list">
         
-        <li><a href='1a56099ff3a19eae8b5e9cd9a0076fd7.html'><span class='node-icon staruml-icon icon-UMLComponentDiagram'></span>Process View</a></li>
-        
-        <li><a href='787c745dde2d44c117ea06c3ab177853.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>AutoNavAI</a></li>
-        
-        <li><a href='9e91d966ef631acb5385b5587f5fa3c0.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>TrainAutoNavAI</a></li>
-        
-        <li><a href='2ab7033a95d951a5890e1a34c4798566.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>ACATsentencePrediction</a></li>
-        
-        <li><a href='d13439c5ec233903db0ff3e90e780cb8.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>AvatarSpeaks</a></li>
-        
-        <li><a href='f5129cca5e0853569d854fdac58282b5.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>EyeGaze</a></li>
-        
-        <li><a href='4234e53abb193768087d6c36062dcdf9.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>EdgeIntegration</a></li>
+        <li><a href='833d879c13873d888d6fd2e26102e45c.html'><span class='node-icon staruml-icon icon-UMLSequenceDiagram'></span>ACATsentencePrediction</a></li>
         
     </ul>
 </section>

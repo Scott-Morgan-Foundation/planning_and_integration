@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Process View</title>
+    <title>read</title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="../assets/css/bootstrap.css">
 <link rel="stylesheet" href="../assets/css/jquery.bonsai.css">
@@ -18,14 +18,14 @@
 
       <!-- Name Title -->
 
-      <h1>Process View</h1>
+      <h1>read</h1>
 
       <!-- Type and Stereotype -->
 
       <section style="margin-top: .5em;">
         <span class="alert alert-info">
-          <span class="node-icon staruml-icon icon-UMLModel"></span>
-          UMLModel
+          <span class="node-icon staruml-icon icon-UMLMessage"></span>
+          UMLMessage
         </span>
         
       </section>
@@ -41,6 +41,15 @@
         
           <span>::</span>
           <span class="label label-info"><a href='1d339298f36a9b129304d48be4ad5373.html'><span class='node-icon staruml-icon icon-UMLModel'></span>Process View</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='4234e53abb193768087d6c36062dcdf9.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>EdgeIntegration</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='b1dbb2110eae567a7c17f9a5970155f9.html'><span class='node-icon staruml-icon icon-UMLInteraction'></span>EdgeIntegration</a></span>
+        
+          <span>::</span>
+          <span class="label label-info"><a href='e5e7251e1577628f6abcda6353acacf8.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>read (Adapter→FileServer)</a></span>
         
       </section>
 
@@ -67,6 +76,25 @@
 
       <!-- Directed Relationship -->
 
+      
+      <section class="element-list">
+        <table width="100%">
+          <tr>
+            <td width="50%">
+              <h3>Source</h3>
+              <ul class="nav nav-list">
+                <li><a href='8dd90439887529bd00b259d747c5024f.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>Adapter: Micro Service</a></a></li>
+              </ul>
+            </td>
+            <td width="50%">
+              <h3>Target</h3>
+              <ul class="nav nav-list">
+                <li><a href='6ea40067d9fc70d506339a9f1ffb89b7.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>FileServer: Compute Node</a></a></li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+      </section>
       
 
       <!-- Undirected Relationship -->
@@ -128,22 +156,6 @@
       <!-- Diagrams -->
 
       
-      
-      <section class="element-list">
-        <h3>Diagrams</h3>
-        <div>
-          
-          <div style="display: inline-block; width: 250px; vertical-align: top;">
-            <div class="member">
-              <a href="1a56099ff3a19eae8b5e9cd9a0076fd7.html">
-                <img src="../diagrams/1a56099ff3a19eae8b5e9cd9a0076fd7.svg">
-                <div style="text-align: center; margin-top: 1em;">Process View</div>
-              </a>
-            </div>
-          </div>
-          
-        </div>
-      </section>
       
 
       <!-- Behavior -->
@@ -225,7 +237,7 @@
     
     <tr>
         <td>name</td>
-        <td>Process View</td>
+        <td>read</td>
     </tr>
     
     
@@ -233,6 +245,24 @@
     
     
     
+    
+    
+    
+    
+    
+    <tr>
+        <td>source</td>
+        <td><a href='8dd90439887529bd00b259d747c5024f.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>Adapter: Micro Service</a></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>target</td>
+        <td><a href='6ea40067d9fc70d506339a9f1ffb89b7.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>FileServer: Compute Node</a></td>
+    </tr>
     
     
     
@@ -256,13 +286,9 @@
     
     
     
-    
-    
     <tr>
-        <td>importedElements</td>
-        <td>
-            
-        </td>
+        <td>messageSort</td>
+        <td>synchCall</td>
     </tr>
     
     
@@ -270,8 +296,71 @@
     
     
     <tr>
-        <td>viewpoint</td>
+        <td>signature</td>
+        <td><span class='label label-info'>null</span></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>connector</td>
+        <td><span class='label label-info'>null</span></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>sequenceNumber</td>
         <td></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>arguments</td>
+        <td></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>assignmentTarget</td>
+        <td></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>guard</td>
+        <td></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>iteration</td>
+        <td></td>
+    </tr>
+    
+    
+    
+    
+    
+    <tr>
+        <td>isConcurrentIteration</td>
+        <td><span class='label label-info'>false</span></td>
     </tr>
     
     
@@ -287,18 +376,6 @@
       <!-- Constraints, Dependencies, Dependants -->
 
       
-        
-        
-
-
-        
-        
-
-
-        
-        
-
-      
 
       <!-- Relationships -->
 
@@ -310,27 +387,6 @@
 
       
       
-<section class="element-list">
-    <h3>Owned Elements</h3>
-    <ul class="nav nav-list">
-        
-        <li><a href='1a56099ff3a19eae8b5e9cd9a0076fd7.html'><span class='node-icon staruml-icon icon-UMLComponentDiagram'></span>Process View</a></li>
-        
-        <li><a href='787c745dde2d44c117ea06c3ab177853.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>AutoNavAI</a></li>
-        
-        <li><a href='9e91d966ef631acb5385b5587f5fa3c0.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>TrainAutoNavAI</a></li>
-        
-        <li><a href='2ab7033a95d951a5890e1a34c4798566.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>ACATsentencePrediction</a></li>
-        
-        <li><a href='d13439c5ec233903db0ff3e90e780cb8.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>AvatarSpeaks</a></li>
-        
-        <li><a href='f5129cca5e0853569d854fdac58282b5.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>EyeGaze</a></li>
-        
-        <li><a href='4234e53abb193768087d6c36062dcdf9.html'><span class='node-icon staruml-icon icon-UMLCollaboration'></span>EdgeIntegration</a></li>
-        
-    </ul>
-</section>
-
 
 
     </div>
