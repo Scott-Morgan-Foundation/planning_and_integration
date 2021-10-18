@@ -1,56 +1,78 @@
-# Project Roles
+# Technical Roles
+
+Refer to specific activities and individuals within the Peter 2.0 Project. Not all Contributors and Collaborators will have a role, and some members may fill more than one role.
 
 ## Program/Product Owner
-Decides what needs to be done in the project. Ensures that people work on tasks that build toward viable product releases, rather than easy low hanging fruit. Directs interal maintainers in their work
+Decides what needs to be done in the project. Ensures that people work on tasks that build toward viable product releases, rather than easy low hanging fruit. Directs internal maintainers in their work
 
 Needs to understand the holistic requirements of Peter 2.0 and keep maintainers on task accordingly.
 
 Needs to break work up into waves/phases/releases and coordinate as required
 
 ## Enterprise Engineer/Architect
-Manages from top down all system intergrations and ecosystem/architecture principles.
+Manages from top down all system integrations and ecosystem/architecture principles.
 
 Needs to alert/stop maintainers, collaborators, and contributors if their work is in violation of any principles.
 
 Leads the Mission Network Controllers.
 
-## Mission Network Controller
-Lead engineer/architect for a designated Peter 2.0 network
+### Mission Network Controllers
+Lead engineers/architects for a designated Peter 2.0 network
+- #### Mission Network Controller - Lab
 
-### Mission Network Controller - Lab
-Leads the development and use of the Peter 2.0 Digital Twin environment
+  Leads the development and use of the Peter 2.0 Digital Twin environment
 
-### Mission Network Controller - Chair
-Leads the development and use of the Chair network
+- #### Mission Network Controller - Chair
 
-### Mission Network Controller - Highcliffe
-Leads the development and use of the Highcliffe network
+  Leads the development and use of the Chair network
 
-## Software Development Lead
-Oversees the continious integration and continious delivery processes for Peter 2.0
+  - ##### Sub-mission Network Controller - Bed
+
+    Focuses on the integration of the Bed Sub-network into the Chair Network
+
+- #### Mission Network Controller - Highcliffe
+
+  Leads the development and use of the Highcliffe network
+
+- #### Mission Network Controller - Travel
+
+  Leads the development and use of the Travel network
+
+## Software Development Process Lead
+
+Oversees the continuous integration and continuous delivery processes for Peter 2.0
+
+## Hardware Lead
+
+Selects and integrates hardware choices into all Networks
 
 ## Data Architect
-Defines the data architecture for all data within Peter 2.0
+
+Defines the data architecture for all data within Peter 2.0. This includes Macro and Micro data definitions.
 
 ## GitHub Administrator
 Acts as the librarian of Peter 2.0
 
 # Project Badges
 
+Badges can be held by any member of the Peter 2.0 team and represent additional community oriented activities they are able to support.
+
 ## New Collaborator/Contributor Mentor
 Introduces new active collaborators and contributors to the projects. Identifies where their skills and interests will have the largest impact and introduces them to the correct team.
 
 # Project Designations
 
+Project Designations refer to permissions and how members of Peter 2.0 interact with the project regardless of Role.
+
 ## Administrator
-TODO
+Has Administrator rights in the SMF Organization. Can add people and reorganize repos.
 
 ## Maintainer
-TODO
+Has Maintainer rights on a Peter 2.0 repo. Can review and accept/reject pull requests from Contributors based on the directions of Technical Role 
 
-## Collaborator
+## Contributor (internal or external)
 Refers to active contributors who also commit code and system updates to project
 
-## Contributor
+## Collaborator (internal or external)
 Refers to active contributors to the project in any capacity
 
