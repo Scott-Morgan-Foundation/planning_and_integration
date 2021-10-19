@@ -19,7 +19,7 @@ Needs to alert/stop maintainers, collaborators, and contributors if their work i
 
 Leads the **Mission Network Controllers** and **Application Leads**. 
 
-- ### Mission Network Controllers
+### Mission Network Controllers
 Lead engineers/architects for a designated Peter 2.0 network
   - #### Mission Network Controller - Lab (Isolated)
 
@@ -41,14 +41,14 @@ Lead engineers/architects for a designated Peter 2.0 network
 
     Leads the development and use of the Travel network
 
-- ### Application Leads
+### Application Leads
 Application Leads deploy their tools across all networks.
 
   - #### Avatar 
   TODO
 
   - #### TODO
-  
+
 ## DevOps/Site Reliability Engineer
 
 Oversees the continuous integration and continuous delivery processes for Peter 2.0 applications and networks to ensure safety, health, uptime, and the ability to remedy unforeseen problems.
