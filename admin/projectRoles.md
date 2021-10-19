@@ -42,7 +42,7 @@ Lead engineers/architects for a designated Peter 2.0 network
     Leads the development and use of the Travel network
 
 ### Application Leads
-Application Leads deploy their tools across all networks.
+Application Leads build,deploy, and maintain their tools across at least one of the physical Mission Networks and the Mission Lab Network.
 
   - #### Avatar 
   TODO
