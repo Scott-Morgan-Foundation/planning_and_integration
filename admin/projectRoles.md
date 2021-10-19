@@ -10,7 +10,7 @@ Needs to understand the holistic requirements of Peter 2.0 and keep maintainers 
 Needs to break work up into waves/phases/releases and coordinate as required
 
 ## Enterprise Engineer/Architect
-Manages from top down all system integrations and ecosystem/architecture principles.
+Manages from top down all system (physical, application, and network) integrations and ecosystem/architecture principles.
 
 Needs to alert/stop maintainers, collaborators, and contributors if their work is in violation of any principles.
 
@@ -38,20 +38,20 @@ Lead engineers/architects for a designated Peter 2.0 network
 
   Leads the development and use of the Travel network
 
-## Software Development Process Lead
+## DevOps/Site Reliability Engineer
 
-Oversees the continuous integration and continuous delivery processes for Peter 2.0
+Oversees the continuous integration and continuous delivery processes for Peter 2.0 applications and networks to ensure safety, health, uptime, and the ability to remedy unforeseen problems.
 
 ## Hardware Lead
 
-Selects and integrates hardware choices into all Networks
+Selects and integrates hardware choices into all Networks. Oversees Asset Management for Peter 2.0
 
 ## Data Architect
 
-Defines the data architecture for all data within Peter 2.0. This includes Macro and Micro data definitions.
+Defines the data architecture for all data within Peter 2.0. This includes Macro and Micro data definitions, and how data is passed over the Mission Networks.
 
 ## GitHub Administrator
-Acts as the librarian of Peter 2.0
+Acts as the librarian of Peter 2.0 repositories
 
 # Project Badges
 
