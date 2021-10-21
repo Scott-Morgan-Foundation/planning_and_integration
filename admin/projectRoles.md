@@ -1,88 +1,103 @@
 # Project Roles
+Refer to specific activities and individuals within the Peter 2.0 Project. Named Roles have ownership authority for critical areas of the Peter 2.0 Project. Not all Contributors and Collaborators will have a role, and some members may fill more than one role.
 
-Refer to specific activities and individuals within the Peter 2.0 Project. Not all Contributors and Collaborators will have a role, and some members may fill more than one role.
+## Program Owner
+Leads and owns the vision of the Peter 2.0 Project
 
 ## Global Alliance Coordinator
-TODO
+Identifies, invites, and coordinates participation in the Peter 2.0 Project among global partners. Owns the global partner relationships.
 
-## Program/Product Owner
-Decides what needs to be done in the project. Ensures that people work on tasks that build toward viable product releases, rather than easy low hanging fruit. Directs internal maintainers in their work
+## Communications Lead
+Coordinates amd owns the communication plan amoung vested parties to provide a unified message on Peter 2.0
+  - ### Partner Communications (DXC)
+  Owns DXC run communications
 
-Needs to understand the holistic requirements of Peter 2.0 and keep maintainers on task accordingly.
+  - ### Partner Communications (Lenovo)
+  Owns Lenovo run communications
 
-Needs to break work up into waves/phases/releases and coordinate as required
+  - ### Partner Communications (Scott-Morgan Foundation)
+  Owns SMF run communications
 
-## Enterprise Engineer/Architect
-Manages from top down all system (physical, application, and network) integrations and ecosystem/architecture principles.
+## Product Owner
+Decides what needs to be done in the Peter 2.0 Project and owns the release schedule. Ensures that people work on tasks that build toward viable product releases, rather than easy low hanging fruit. Directs internal maintainers in prioritizing their work.
 
-Needs to alert/stop maintainers, collaborators, and contributors if their work is in violation of any principles.
+## Enterprise Engineer-Architect
+Owns from top down all system (physical, application, and network) integrations and ecosystem/architectures.
+
+Needs to alert/stop maintainers, collaborators, and contributors if their work is in violation of any community architecture principles.
 
 Leads the **Mission Network Controllers** and **Application Leads**. 
 
 ### Mission Network Controllers
-Lead engineers/architects for a designated Peter 2.0 network
+Mission Network Controllers own the build,deploy, and maintain one of the Peter 2.0 networks. These networks provide the scaffolding for all Peter 2.0 applications.
   - #### Mission Network Controller - Lab (Isolated)
-
-    Leads the development and use of the Peter 2.0 Digital Twin environment
+    Owns the development and operation of the Peter 2.0 Digital Twin environment
 
   - #### Mission Network Controller - Chair (Integrated)
-
-    Leads the development and use of the Chair network
+    Owns the development and operation of the Chair network
 
     - ##### Sub-mission Network Controller - Bed (Integrated)
-
       Focuses on the integration of the Bed Sub-network into the Chair Network
 
   - #### Mission Network Controller - Highcliffe (Integrated)
-
-    Leads the development and use of the Highcliffe network
+    Owns the development and operation of the Highcliffe network
 
   - #### Mission Network Controller - Travel (Isolated)
-
-    Leads the development and use of the Travel network
+    Owns the development and operation of the Travel network
 
 ### Application Leads
-Application Leads build,deploy, and maintain their tools across at least one of the physical Mission Networks and the Mission Lab Network.
+Application Leads own the build,deploy, and maintain their tools across at least one of the physical Mission Networks and the virtual Mission Lab Network.
 
   - #### Avatar 
-  TODO
+    Owns the development and operation of the digital avatar.
 
-  - #### TODO
+  - #### Voice
+    Owns the development and operation of the digital voice.
 
-## DevOps/Site Reliability Engineer
+  - #### Speech & Writing
+    Owns the development and operation of assisted writing.
+  
+  - #### Event Message Hub
+    Owns the development and operation of the event message hub.
+    
+  - #### Event Message Database
+    Owns the development and operation of the event message database.
+  
+  - #### Self-driving Wheel Chair
+    Owns the development and operation of the self-driving wheel chair.
 
-Oversees the continuous integration and continuous delivery processes for Peter 2.0 applications and networks to ensure safety, health, uptime, and the ability to remedy unforeseen problems.
+  - #### Health & Alerts
+    Owns the development and operation of the health alerting system.
+
+## DevOps/Site Reliability Lead
+Oversees the continuous integration and continuous delivery processes for Peter 2.0 applications and networks to ensure safety, health, uptime, and the ability to remedy unforeseen problems. Owns the GitHub repos and the processes for how technology is deployed.
+
+  - ## GitHub Administrator
+    Supports the DevOps/Site Reliability Lead. Acts as the librarian of Peter 2.0 repositories
 
 ## Hardware Lead
-
-Selects and integrates hardware choices into all Networks. Oversees Asset Management for Peter 2.0
+Selects and integrates hardware choices into all Networks. Owns Asset Management for Peter 2.0
 
 ## Data Architect
-
-Defines the data architecture for all data within Peter 2.0. This includes Macro and Micro data definitions, and how data is passed over the Mission Networks.
-
-## GitHub Administrator
-Acts as the librarian of Peter 2.0 repositories
-
+Defines the data architecture for all data within Peter 2.0. This includes Macro and Micro data definitions, and how data is passed over the Mission Networks. Owns the Data Model for the Peter 2.0 project.
+---
 # Project Badges
-
 Badges can be held by any member of the Peter 2.0 team and represent additional community oriented activities they are able to support.
 
 ## New Collaborator/Contributor Mentor
 Introduces new active collaborators and contributors to the projects. Identifies where their skills and interests will have the largest impact and introduces them to the correct team.
-
+---
 # Project Designations
-
-Project Designations refer to permissions and how members of Peter 2.0 interact with the project regardless of Role.
+Project Designations drive GitHub permissions and how members of Peter 2.0 interact with the project regardless of Role.
 
 ## Administrator
-Has Administrator rights in the SMF Organization. Can add people and reorganize repos.
+Has Administrator rights in the SMF GitHub Organization. Can add people and reorganize repos.
 
 ## Maintainer
 Has Maintainer rights on a Peter 2.0 repo. Can review and accept/reject pull requests from Contributors based on the directions of Technical Role 
 
 ## Contributor (internal or external)
-Refers to active contributors who also commit code and system updates to project
+Refers to active contributors who also commit code and system updates to any repo in the Peter 2.0 Project
 
 ## Collaborator (internal or external)
 Refers to active contributors to the project in any capacity
