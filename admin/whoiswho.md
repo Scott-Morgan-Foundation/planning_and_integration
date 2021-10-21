@@ -19,4 +19,8 @@
 | Saurav Sahay      |           | Intel                                           | AI / NLP lead working on response generation / word prediction | ACAT                                                      |                        |
 | Shachi Kumar      |           | Intel                                           | AI / NLP researcher working on response generation           | ACAT                                                      |                        |
 | Mark Green        | GMT       | Intel                                           | Local ACAT support for existing system                       | ACAT                                                      |                        |
-
+| Ian Norris        | GMT       | Lenovo                                          | Technical Solutions Architect                                |                                                           |                        |
+| Justin Eure       | EST       | Lenovo                                          | Marketing Communications Manager                             |                                                           |                        |
+| John Trapasso     | EST       | Lenovo                                          | Strategic Product Manager                                    |                                                           |                        |
+| Stuart Lawrence   | GMT       |                                                 |                                                              |                                                           |                        |
+| Annu Singh        | IST       |                                                 |                                                              |                                                           |                        |
