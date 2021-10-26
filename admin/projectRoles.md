@@ -8,15 +8,15 @@ Leads and owns the vision of the Peter 2.0 Project
 Identifies, invites, and coordinates participation in the Peter 2.0 Project among global partners. Owns the global partner relationships.
 
 ## Communications Lead
-Coordinates amd owns the communication plan amoung vested parties to provide a unified message on Peter 2.0
-  - ### Partner Communications (DXC)
-  Owns DXC run communications
+Coordinates and owns the communication plan among vested parties to provide a unified message on Peter 2.0
+  - ### Partner Communicator (DXC)
+    Owns DXC run communications
 
-  - ### Partner Communications (Lenovo)
-  Owns Lenovo run communications
+  - ### Partner Communicator (Lenovo)
+    Owns Lenovo run communications
 
-  - ### Partner Communications (Scott-Morgan Foundation)
-  Owns SMF run communications
+  - ### Partner Communicator (Scott-Morgan Foundation)
+    Owns SMF run communications
 
 ## Product Owner
 Decides what needs to be done in the Peter 2.0 Project and owns the release schedule. Ensures that people work on tasks that build toward viable product releases, rather than easy low hanging fruit. Directs internal maintainers in prioritizing their work.
@@ -36,7 +36,7 @@ Mission Network Controllers own the build,deploy, and maintain one of the Peter 
   - #### Mission Network Controller - Chair (Integrated)
     Owns the development and operation of the Chair network
 
-    - ##### Sub-mission Network Controller - Bed (Integrated)
+    - ##### Mission Sub-network Controller - Bed (Integrated)
       Focuses on the integration of the Bed Sub-network into the Chair Network
 
   - #### Mission Network Controller - Highcliffe (Integrated)
@@ -68,6 +68,9 @@ Application Leads own the build,deploy, and maintain their tools across at least
 
   - #### Health & Alerts
     Owns the development and operation of the health alerting system.
+    
+  - #### AI Artist
+    Owns the development and operation of the AI Artist Application
 
 ## DevOps/Site Reliability Lead
 Oversees the continuous integration and continuous delivery processes for Peter 2.0 applications and networks to ensure safety, health, uptime, and the ability to remedy unforeseen problems. Owns the GitHub repos and the processes for how technology is deployed.
@@ -80,13 +83,17 @@ Selects and integrates hardware choices into all Networks. Owns Asset Management
 
 ## Data Architect
 Defines the data architecture for all data within Peter 2.0. This includes Macro and Micro data definitions, and how data is passed over the Mission Networks. Owns the Data Model for the Peter 2.0 project.
----
+
+------
+
 # Project Badges
 Badges can be held by any member of the Peter 2.0 team and represent additional community oriented activities they are able to support.
 
 ## New Collaborator/Contributor Mentor
 Introduces new active collaborators and contributors to the projects. Identifies where their skills and interests will have the largest impact and introduces them to the correct team.
----
+
+------
+
 # Project Designations
 Project Designations drive GitHub permissions and how members of Peter 2.0 interact with the project regardless of Role.
 
