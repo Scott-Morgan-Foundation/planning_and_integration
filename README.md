@@ -6,6 +6,7 @@ This repository contains documents and code associated with the Planning and Int
 - [Roadmap](./roadmap/readme.md)
 - [Requirements](./requirements/readme.md)
 - [Design](./design/readme.md)
+- [Products](./products/readme.md)
 - [Integration](./integration/readme.md)
 
 <hr> 
