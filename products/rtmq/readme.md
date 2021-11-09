@@ -5,6 +5,11 @@ This section describes all the Real Time Message Queue products that are or have
 
 - [Kafka](./kafka)
 
+
+<hr>
+
+- [Current Pick](./currentpick.md)
+ 
 <hr>
 
 [Back Up](../readme.md)
