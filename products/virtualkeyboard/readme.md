@@ -9,7 +9,7 @@ This section describes all the virtual keyboard products that are or have been c
 <hr>
 
 - [Current Pick](./currentpick.md)
-- 
+
 <hr>
 
 [Back Up](../readme.md)
