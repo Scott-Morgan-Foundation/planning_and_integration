@@ -1,7 +1,7 @@
 ![smf-logo](../../images/smf-logo.png)
-# Data Design
+# Architecture
 
-This section contains architecture principle and designs to be used  across the integration solutions.
+This section contains architecture principles and designs to be used  across the integration solutions.
 
 <hr>
 
