@@ -13,7 +13,13 @@ This section details the Current Technology Pick for a Real Time Message Queue p
 
 ## Evidence
 
--TDB
+-TBD
+
+## Options
+
+- Apache Kafka
+- Amazon Kinesis
+- Azure Event Hubs
 
 <hr>
 
