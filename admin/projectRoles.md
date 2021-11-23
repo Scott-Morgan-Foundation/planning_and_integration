@@ -19,12 +19,19 @@ These set the direction and end-state goals of the Foundation System Project.
 
 Leads and owns the vision of the Foundation Systems Project
 
+### Program Coordinator
+
+> All 12 Missions
+
+Supports the team with coordinating meetings across multiple companies and calendar systems
+
 ### Global Partner Company Coordinator
+
 > All 12 Missions
 
 Identifies, invites, and coordinates participation in the Foundation Systems Project among global partners. Owns the global partner relationships. Secures partners who can fill roles and knowledge gaps within the project.
 
-### Product Owner
+### Product - Project Director
 > Personalized AI | Library 2050 | HAL Infrastructure | Intelligent Environment | 24/7 Comms | Verbal Spontaneity | Personality Retention | All-Access Pass | Virtual Liberation | Robotic Mobility | Partial Exoskeleton
 
 Decides when things should be done in the Foundation Systems Project and owns the release schedule. Ensures that people work on tasks that build toward viable product releases, rather than easy low hanging fruit. Directs internal maintainers in prioritizing their work Works closely with the Enterprise Engineer-Architect to understand what needs to be done.
@@ -90,7 +97,7 @@ Owns the development and operation of the Chair network. This is the primary net
 
   Focuses on the integration of the Out of Chair Sub-network, which ensures that communication is not lost when someone is out of the chair
 
-### Mission Network Controller - Highcliffe (house) (Integrated)
+### Mission Network Controller - Highcliff (house) (Integrated)
 > Personalized AI | Library 2050 | HAL Infrastructure | Intelligent Environment 
 
 Owns the development and operation of the Highcliffe network. This network controls the smart home devices and provides extra computing power to the chair when the chair is connected
@@ -110,56 +117,62 @@ Owns the development and operation of the Travel network. This network ensures t
 ## Microservice Application Group
 Application Leads own the build,deploy, and maintain on their tools across at least one of the physical Mission Networks and the virtual Mission Digital Twin Network.
 
-### Avatar 
+### Avatar Lead
 > Personality Retention
 
 Owns the development and operation of the digital avatar.
 
-- #### Social Response
+- #### Social Response Lead
   >  24/7 Comms | Verbal Spontaneity
 
   Owns the development of the Avatars social response sub-system. Is controlled by the Avatar Application.
 
-- #### Voice & TTS
+- #### Voice Lead
   >  24/7 Comms | Verbal Spontaneity
 
   Owns the development and operation of the digital voice and Text to Speech routines.
 
-- #### Puppetry
+- #### Puppetry Lead
   > 24/7 Comms | Rewritting the Future
   
   Owns the development and operation of the offline Puppetry video editing tool
 
-### Speech & Writing
->  24/7 Comms | Verbal Spontaneity | Personality Retention 
+### Speech & Writing Interface Lead
+>  24/7 Comms 
 
   Owns the development and operation of assisted writing.
 
-### Event Message Hub
+### Response Generation Lead
+
+> Verbal Spontaneity | Personality Retention
+
+Owns the development of the response generation algorithms and models to predict a user's next input and offer a short cut to it. 
+
+### Event Message Hub Lead
 
 > Personalized AI | Library 2050 | HAL Infrastructure | Intelligent Environment | 24/7 Comms | Verbal Spontaneity | Personality Retention | All-Access Pass | Virtual Liberation | Robotic Mobility | Partial Exoskeleton
 
 Owns the development and operation of the event message hub. The Hub links information and data from the Foundation Systems applications
 
-### Persistent Storage
+### Persistent Storage Lead
 
 > Personalized AI | Library 2050 | HAL Infrastructure | Intelligent Environment | 24/7 Comms | Verbal Spontaneity | Personality Retention | All-Access Pass | Virtual Liberation | Robotic Mobility | Partial Exoskeleton
 
 
 Owns the development and operation of the Foundations Systems data lake, which preserves all observed and acquired data in the Foundation Systems. This includes 1st party content data and system (log) data, masked opt-in 2nd party data, and acquired 3rd party data.
 
-### Self-driving Wheel Chair
+### Self-driving Wheel Chair Lead
 
 > Robotic Mobility
 
 Owns the development and operation of the self-driving wheel chair.
 
-### Health & Alerts
+### Health & Alerts Lead
 >  Intelligent Environment
 
 Owns the development and operation of the health alerting system.
 
-### Cyborg Universe
+### Cyborg Universe Lead
 > Virtual Liberation
 
 Owns the development and operation of the Augmented Reality Operating System and the integration with the broader metaverse.
