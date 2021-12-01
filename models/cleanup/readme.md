@@ -1,4 +1,4 @@
-# Tools to clean up (remove UNREGISTERED from diagrams)
+# Tools to clean up diagrams (remove UNREGISTERED from background)
 
 ## What you need
 
