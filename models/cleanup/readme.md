@@ -14,4 +14,3 @@
 1. Run the prepare.bat file in the diagrams directory - this will use genbat.awk to create process.bat
 2. Run the process.bat file in the diagrams directory - this will remove UNREGISTERED background from all SVG's
 3. Reupload the updated SVG files into Github
-4. 
