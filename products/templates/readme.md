@@ -5,7 +5,7 @@ This section lists templates that can be used by the SMF team
 
 ## Documents
 
-- [Decision Paper](./smf-example-decision-paper.doc
+- [Decision Paper](./smf-example-decision-paper.doc)
 
 ## Other
 - [GitHub readme.md page](./github)
