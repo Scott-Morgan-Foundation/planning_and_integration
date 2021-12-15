@@ -11,9 +11,9 @@ There will be files associated with the overarching Roadmap alongside more detai
 2. Priority
 3. Priority
 #### Product Direction
-1. Priority
-2. Priority
-3. Priority
+1. Complete an experiment on alternative eye tracking technology
+2. Stand up a beta AWS version of the simulation network
+3. Release a beta Python version of a microservice Software Development Kit (SDK)
 #### Communication Direction
 1. Priority
 2. Priority
