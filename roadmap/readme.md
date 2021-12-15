@@ -7,21 +7,20 @@ There will be files associated with the overarching Roadmap alongside more detai
 
 ### Near-Term (Jan-2022) Priorities
 #### Program Direction
-1. Priority
-2. Priority
-3. Priority
+1. 24x7 Communications (start with a few basic commands)
+2. Aesthetics, Technical Design and Specifications for Highcliff
+3. Concept and design for the library
 #### Product Direction
-1. Complete an experiment on alternative eye tracking technology
-2. Stand up a beta AWS version of the simulation network
-3. Release a beta Python version of a microservice Software Development Kit (SDK)
+1. Kick off (with Intel) on at least one new eye tracking technology experiment
+2. Release a beta Python version of a microservice Software Development Kit (SDK)
 #### Communication Direction
 1. Priority
 2. Priority
 3. Priority
 #### Technical Direction
-1. Priority
-2. Priority
-3. Priority
+1. Defining an IoT Communications Protocol
+2. Defining the physical technology design and requirements for the wheelchair and Highcliff
+3. Stand up and document a beta AWS version of the simulation network
 
 ### Overall Roadmap
 - [Overall Roadmap](./overarching/readme.md)
