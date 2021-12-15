@@ -7,8 +7,8 @@ There will be files associated with the overarching Roadmap alongside more detai
 
 ### Near-Term (Jan-2022) Priorities
 #### Program Direction
-1. 24x7 Communications (start with a few basic commands)
-2. Aesthetics, Technical Design and Specifications for Highcliff
+1. 24x7 communications (start with a few basic commands)
+2. Aesthetics, technical design and specifications for Highcliff
 3. A clear and aspirational vision and concept for the library
 #### Product Direction
 1. Kick off (with Intel) on at least one new eye tracking technology experiment
@@ -19,7 +19,7 @@ There will be files associated with the overarching Roadmap alongside more detai
 2. Priority
 3. Priority
 #### Technical Direction
-1. Defining IoT Communications Protocols
+1. Defining IoT communications protocols
 2. Defining the physical technology design and requirements for the wheelchair and Highcliff
 3. Stand up and document a beta AWS version of the simulation network
 
