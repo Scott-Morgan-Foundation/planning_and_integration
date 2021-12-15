@@ -5,7 +5,7 @@ In this directory you will find files associated with the Scott Morgan Foundatio
 
 There will be files associated with the overarching Roadmap alongside more detailed roadmap elements associated with each of the Streams
 
-### Near-Term (30-Day) Priorities
+### Near-Term (Jan-2022) Priorities
 #### Progeram Direction
 1. Priority
 2. Priority
