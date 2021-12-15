@@ -19,7 +19,7 @@ There will be files associated with the overarching Roadmap alongside more detai
 2. Priority
 3. Priority
 #### Technical Direction
-1. Defining an IoT Communications Protocol
+1. Defining IoT Communications Protocols
 2. Defining the physical technology design and requirements for the wheelchair and Highcliff
 3. Stand up and document a beta AWS version of the simulation network
 
