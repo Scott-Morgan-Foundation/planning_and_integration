@@ -9,10 +9,11 @@ There will be files associated with the overarching Roadmap alongside more detai
 #### Program Direction
 1. 24x7 Communications (start with a few basic commands)
 2. Aesthetics, Technical Design and Specifications for Highcliff
-3. Concept and design for the library
+3. A clear vision and concept for the library
 #### Product Direction
 1. Kick off (with Intel) on at least one new eye tracking technology experiment
 2. Release a beta Python version of a microservice Software Development Kit (SDK)
+3. Visual, virtual representation of the library concept
 #### Communication Direction
 1. Priority
 2. Priority
