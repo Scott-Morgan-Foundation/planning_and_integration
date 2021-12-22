@@ -1,7 +1,7 @@
 ![smf-logo](../../images/smf-logo.png)
 # Data Design
 
-This section contains a design for the common Data to be used across the integration solutions.
+This section contains a design for the common Data Model to be used across the integration solutions.
 
 <hr>
 
