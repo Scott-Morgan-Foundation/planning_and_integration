@@ -5,9 +5,9 @@ The diagram below depots the AWS Reference Architecture for Connected Medical De
 
 This will be the basis of the Architecture for the Scott Morgan Foundation Systems
 
-![AWS RA4CMD](./aws-ref-arch-connected-medical-devices.pmg)
+![AWS RA4CMD](./aws-ref-arch-connected-medical-devices.png)
 
-![AWS RA4CMD_FLOW](./aws-ref-arch-connected-medical-devices-words.pmg)
+![AWS RA4CMD_FLOW](./aws-ref-arch-connected-medical-devices-words.png)
 
 
 <hr>
