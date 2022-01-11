@@ -4,6 +4,7 @@
 This section includes all overarching designs across the multi streams of work for the Scott-Morgan Foundation
 
 - [Architecture](./architecture)
+- [Concepts](./concepts)
 - [Data](./data/)
 
 - [Dashboard](./dashboard/)
