@@ -1,1 +1,1 @@
-* Images directory for SMF Plannign and Integration Repo
+* Images directory for SMF Planning and Integration Repo
